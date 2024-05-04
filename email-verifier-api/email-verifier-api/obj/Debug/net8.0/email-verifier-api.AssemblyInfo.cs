@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("email-verifier-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67d25acc08268f3d7c9bb1fc9c422a5b793a9cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfeec1c08a662efa76dbe559093ce61c49178a60")]
 [assembly: System.Reflection.AssemblyProductAttribute("email-verifier-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("email-verifier-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

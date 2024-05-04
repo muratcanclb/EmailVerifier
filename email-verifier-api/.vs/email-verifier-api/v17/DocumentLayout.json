@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ApiProjects\\EmailVerifier\\email-verifier-api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CBFB6D-DC7B-491A-B942-A6D15C0DCC93}|email-verifier-api\\email-verifier-api.csproj|d:\\apiprojects\\emailverifier\\email-verifier-api\\email-verifier-api\\domain\\entities\\emails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CBFB6D-DC7B-491A-B942-A6D15C0DCC93}|email-verifier-api\\email-verifier-api.csproj|solutionrelative:email-verifier-api\\domain\\entities\\emails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CBFB6D-DC7B-491A-B942-A6D15C0DCC93}|email-verifier-api\\email-verifier-api.csproj|d:\\apiprojects\\emailverifier\\email-verifier-api\\email-verifier-api\\domain\\dto\\emailpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CBFB6D-DC7B-491A-B942-A6D15C0DCC93}|email-verifier-api\\email-verifier-api.csproj|solutionrelative:email-verifier-api\\domain\\dto\\emailpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailPostDto.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\EmailVerifier\\email-verifier-api\\email-verifier-api\\Domain\\Dto\\EmailPostDto.cs",
+              "RelativeDocumentMoniker": "email-verifier-api\\Domain\\Dto\\EmailPostDto.cs",
+              "ToolTip": "D:\\ApiProjects\\EmailVerifier\\email-verifier-api\\email-verifier-api\\Domain\\Dto\\EmailPostDto.cs",
+              "RelativeToolTip": "email-verifier-api\\Domain\\Dto\\EmailPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:27:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emails.cs",
+              "DocumentMoniker": "D:\\ApiProjects\\EmailVerifier\\email-verifier-api\\email-verifier-api\\Domain\\Entities\\Emails.cs",
+              "RelativeDocumentMoniker": "email-verifier-api\\Domain\\Entities\\Emails.cs",
+              "ToolTip": "D:\\ApiProjects\\EmailVerifier\\email-verifier-api\\email-verifier-api\\Domain\\Entities\\Emails.cs",
+              "RelativeToolTip": "email-verifier-api\\Domain\\Entities\\Emails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:25:27.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
