@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oFSA/sdiMGpoxNQYs0WE4p7fHecQkP7wetELG8DjayA=",
+  "Source": "email-verifier-api",
+  "BasePath": "_content/email-verifier-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
