@@ -1,0 +1,6 @@
+@email_verifier_api_HostAddress = http://localhost:5010
+
+GET {{email_verifier_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
