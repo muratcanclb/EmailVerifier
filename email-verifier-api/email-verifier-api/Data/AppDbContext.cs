@@ -1,4 +1,5 @@
 ﻿
+using email_verifier_api.Domain.Dto;
 using email_verifier_api.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
