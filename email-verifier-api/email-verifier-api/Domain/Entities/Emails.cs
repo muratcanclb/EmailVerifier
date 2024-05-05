@@ -7,9 +7,9 @@ namespace email_verifier_api.Domain.Entities
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public Guid Id { get; set; }
+        public Guid id { get; set; }
         public string email {get; set; }
-        public Boolean isVerify { get; set; }
+        public bool isVerify { get; set; }
         public string code { get; set; }
     }
 }

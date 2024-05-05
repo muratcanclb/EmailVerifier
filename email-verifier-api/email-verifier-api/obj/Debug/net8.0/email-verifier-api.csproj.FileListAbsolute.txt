@@ -1,3 +1,11 @@
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.csproj.AssemblyReference.cache
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.AssemblyInfoInputs.cache
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.AssemblyInfo.cs
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.csproj.CoreCompileInputs.cache
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.MvcApplicationPartsAssemblyInfo.cs
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.MvcApplicationPartsAssemblyInfo.cache
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.sourcelink.json
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\appsettings.Development.json
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\appsettings.json
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\email-verifier-api.exe
@@ -5,7 +13,9 @@ D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\email-verifier-api.runtimeconfig.json
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\email-verifier-api.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\email-verifier-api.pdb
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Humanizer.dll
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\MailKit.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -18,7 +28,9 @@ D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\MimeKit.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\NETCore.MailKit.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Npgsql.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
@@ -83,14 +95,6 @@ D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.csproj.AssemblyReference.cache
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.GeneratedMSBuildEditorConfig.editorconfig
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.AssemblyInfoInputs.cache
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.AssemblyInfo.cs
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.csproj.CoreCompileInputs.cache
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.MvcApplicationPartsAssemblyInfo.cs
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.MvcApplicationPartsAssemblyInfo.cache
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.sourcelink.json
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\staticwebassets.build.json
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\staticwebassets.development.json
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\staticwebassets\msbuild.email-verifier-api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -105,7 +109,3 @@ D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.pdb
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\email-verifier-api.genruntimeconfig.cache
 D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\obj\Debug\net8.0\ref\email-verifier-api.dll
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\MailKit.dll
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\MimeKit.dll
-D:\ApiProjects\EmailVerifier\email-verifier-api\email-verifier-api\bin\Debug\net8.0\NETCore.MailKit.dll
