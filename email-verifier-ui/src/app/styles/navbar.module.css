@@ -1,0 +1,26 @@
+.menuItem {
+  margin: 5px;
+  position: relative;
+}
+.panel {
+  background-color: rgba(249, 247, 250, 0.849);
+  width: auto;
+  height: 70px;
+}
+.container {
+  display: flex;
+  align-items: center; /* Dikeyde ortalamak için */
+}
+
+.navbarbutton {
+  background-color: transparent; /* Arkaplan rengi şeffaf */
+  color: #a74accd2; /* Metin rengi */
+  padding: 10px 20px; /* Dolgu */
+  border: none; /* Kenarlık yok */
+  cursor: pointer; /* Fare imleci */
+  font-size: 16px; /* Metin boyutu */
+}
+
+.navbarbutton:hover {
+  text-decoration: underline; /* Hover durumunda alt çizgi ekle */
+}

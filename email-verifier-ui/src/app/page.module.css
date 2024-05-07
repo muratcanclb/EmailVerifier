@@ -107,6 +107,8 @@
 
 .logo {
   position: relative;
+  width: 5px;
+  height: auto;
 }
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
@@ -217,6 +219,8 @@
 
   .logo {
     filter: invert(1) drop-shadow(0 0 0.3rem #ffffff70);
+    width: 5px;
+    height: auto;
   }
 }
 
